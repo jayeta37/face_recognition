@@ -1,2 +1,2 @@
 # face_recognition
-This code recognises facial expressions.
+This code recognises facial parts.
